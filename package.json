@@ -15,7 +15,7 @@
     "@tsconfig/node16": "^1.0.3",
     "aws-cdk-lib": "2.72.1",
     "constructs": "10.1.156",
-    "sst": "^2.8.17",
+    "sst": "2.8.20",
     "typescript": "^5.0.4"
   },
   "workspaces": [
@@ -23,6 +23,7 @@
   ],
   "dependencies": {
     "aws-sdk": "^2.1376.0",
+    "stripe": "^12.5.0",
     "uuid": "^9.0.0"
   }
 }
